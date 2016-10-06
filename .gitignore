@@ -90,5 +90,4 @@ ENV/
 
 *.DS_Store
 cookies.txt
-data/*.csv
-data/zipfiles/*
+data/
